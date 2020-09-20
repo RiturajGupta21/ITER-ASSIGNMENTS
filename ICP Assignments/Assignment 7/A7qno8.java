@@ -1,8 +1,9 @@
+  
 import java.util.*;
 public class A7qno8{ 
 public static void main(String[] args){ 
 Scanner sc=new Scanner(System.in);
-int n=0,i,option,p=0,j,c; 
+int n=0,i,o,p=0,j,c; 
 int a[]=new int[100];
 do{
 System.out.println("1. Creation of array");
@@ -27,12 +28,12 @@ case 3: System.out.println("Enter position of new item to be inserted");
 p=sc.nextInt();
 System.out.println("Enter the value"); 
 j=sc.nextInt();
-for(i=n;i>pos;i--){
+for(i=n;i>p;i--){
 a[i]=a[i-1];}
 a[p]=j;
 n=n+1;
 for(i=0;i<n;i++){     
-System.out.println(a[i]); 
+System.out.println(a[i]); }
 break;
 case 4:
 System.out.println("Enter position of item to be deleted");
