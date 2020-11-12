@@ -2,8 +2,7 @@ import java.util.*;
 import java.util.regex.*;
 public class A4qno5 {
 	public static void main(String[] args) {
-//		 arr[];
-		Pattern p = Pattern.compile("\\d+");
+		Pattern p = Pattern.compile("\\d+",Pattern.CASE_INSENSITIVE);
 		 Scanner sc=new Scanner(System.in);
 		 String str=sc.nextLine();
 		 Matcher m = p.matcher(str);
