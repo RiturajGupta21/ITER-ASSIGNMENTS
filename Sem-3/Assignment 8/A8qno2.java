@@ -10,6 +10,16 @@ public class A8qno2 {
 	public String toString() {
 		return  name + "," + age + ","+roll;
 		}
+	public boolean equals(Object o) {
+		if(o==null)
+			return false;
+		if(o==this)
+			return true;
+		if(getClass()!=o.getClass())
+			return false;
+		A8qno2 a=(A8qno2) o;
+		return (this.toString()==a.toString());
+	}
 	public static void main(String[] args) {
 		A8qno2 x=new A8qno2("Rituraj",19,14);
 		A8qno2 y=new A8qno2("Rituraj",19,14);
