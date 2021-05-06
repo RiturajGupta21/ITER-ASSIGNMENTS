@@ -1,0 +1,21 @@
+org 100h
+mov ax,0000h
+mov ds,ax
+mov ax,[3000h]
+mov bx,[3002h]
+add ax,bx
+mov [3004h],ax
+mov ax,[3000h]
+sub ax,bx
+mov [3006h],ax
+mov ax,[3000h]
+mov bx,[3002h]
+mul bx
+mov [3008h],ax
+mov [300ah],dx
+mov ax,[3000h]
+mov bx,[3002h]
+div bx
+mov [300ch],ax
+mov [330eh],dx
+hlt
