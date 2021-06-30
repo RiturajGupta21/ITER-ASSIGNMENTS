@@ -10,7 +10,7 @@ dec cl
 l1: inc si
     mov bl,[si]  
     cmp al,bl
-    jnc again;for greater than
+    jc again
     mov al,bl
 again: dec cl
        jnz l1
