@@ -3,7 +3,7 @@
 # ITER ASSIGNMENTS
 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 <ol>
-  <li>This Repo contains all the ITER Assignment which we get in our college as now I am in 4th semester so till date all assigment which we got are updated.</li>
+  <li>This Repo contains all the ITER Assignment which we get in our college as now I am in 5th semester so till date all assigment which we got are updated.</li>
   <li>If any correction or suggestion is required then PRs are most welcomed.</li>
   <li>I dont promote any cheating for the assignments.</li>
 </ol>
@@ -13,7 +13,7 @@
 > 2. [Semester 2](https://github.com/RiturajGupta21/ITER-ASSIGNMENTS/tree/master/Sem-2)
 > 3. [Semester 3](https://github.com/RiturajGupta21/ITER-ASSIGNMENTS/tree/master/Sem-3)
 > 4. [Semester 4](https://github.com/RiturajGupta21/ITER-ASSIGNMENTS/tree/master/Sem-4)
-> 
+> 5. [Semester 5](https://github.com/RiturajGupta21/ITER-ASSIGNMENTS/tree/master/Sem-5)
 
 ![loading](https://github.githubassets.com/images/spinners/octocat-spinner-64.gif)
 
