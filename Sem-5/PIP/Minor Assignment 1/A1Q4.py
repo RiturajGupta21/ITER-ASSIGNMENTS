@@ -1,0 +1,7 @@
+print("Solution A",5%10+10<50 and 29>=29)
+print("Solution B",7**2<=5//9%3 or 'bye'<'BYE')
+print("Soultion C",5%10<8 and -25>1*8//5)
+print("Solution D",7**2//4+5>8 or 5!=6)
+print("Solution E",7/4<6 and 'I am fine' > 'I am not fine')
+print("Solution F",10+6*2**2!=9//4-3 and 29>=29/9)
+print("Solution G",'hello'*5>'hello' or 'bye'<'Bye')
