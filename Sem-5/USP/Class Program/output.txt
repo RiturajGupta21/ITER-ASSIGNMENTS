@@ -1,0 +1,2 @@
+The value read from the file is : 200.78
+Kilometer   323.05 
