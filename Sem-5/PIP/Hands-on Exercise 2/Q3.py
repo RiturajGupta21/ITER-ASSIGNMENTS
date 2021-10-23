@@ -1,4 +1,6 @@
-import math
-
-print("%.2f"%math.sqrt(math.pow((float(input("Enter a 1st x coord: ")))
- - (float(input("Enter a 2nd x coord: "))), 2)+math.pow((float(input("Enter a 1st y coord: "))) - (float(input("Enter a 2nd y coord: "))), 2)))
+m=float(input("Enter mass "))
+h=float(input("Enter height "))
+m=0.45359237*m
+h=0.0254*h
+bmi=m/(h*h)
+print("BMI= ",bmi)
