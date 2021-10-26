@@ -10,6 +10,7 @@ int main()
 /* fixed rate for salesperson of mileagereimbursement*/
 #define rate 0.35
 {
+    printf("Mileage Reimbursement Calculator\n");
     /*For Getting the value of odometer*/
     float odometer_init,odometer_fin,differnce,result;
     printf("Enter beginning odometer reading = ");
@@ -21,6 +22,6 @@ int main()
     /*Calculating the cost of mileagereimbursement*/
     result=differnce*rate;
     /*printing the result*/
-    printf("You traveled %.1f miles. At $%.2f per mile,\nyour reimursement is $ %.2f .",differnce,rate,result);
+    printf("You traveled %.1f miles. At $%.2f per mile,\nyour reimursement is $ %.2f .\n",differnce,rate,result);
     return 0;
 }
