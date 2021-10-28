@@ -11,9 +11,9 @@ int main()
     //Assigning variable names 
     float first/*input*/,
     second/*input*/,
-    resfirst/*intermediate res*/
-    ressec/*intermediate res*/
-    sum/*output*/;
+    resfirst,/*intermediate res*/
+    ressec,/*intermediate res*/
+    sum;/*output*/
     //Taking input 
     printf("Enter first and second ");
     scanf("%f%f",&first,&second);
