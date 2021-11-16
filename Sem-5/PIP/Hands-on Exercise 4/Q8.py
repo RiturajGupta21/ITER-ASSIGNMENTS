@@ -1,11 +1,12 @@
 import math
 x=float(input("Enter the value of x for taylor series expansion -> "))
-term=x
-sum=1+x
+term=1
+sum=1
 error= 0.000001
-i=2
+i=0
 while((math.fabs(term))>error):
-    term=term*x/((i-1)*i)
+    i=i+1
+    term=(x/i)*term
     sum=sum+term
-    i=i+2
 print("The solution of Taylor series is = ",sum)
+print(math.exp(x))
