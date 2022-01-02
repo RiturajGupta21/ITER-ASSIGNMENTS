@@ -1,0 +1,1 @@
+// void sum_n_avg(double inp1,double inp2,double inp3,double *sum,double *avg);
