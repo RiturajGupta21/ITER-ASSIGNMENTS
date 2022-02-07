@@ -13,13 +13,13 @@ if(!fork()){
 close(1);
 dup(a[1]);
 close(a[0]);
-execve("ls",args,NULL);
+execve("/bin/ls",args,NULL);
 }
 else{
 close(0);
 dup(a[0]);
 close(a[1]);
-execve("wc",args1,NULL);
+execve("/bin/wc",args1,NULL);
 }
 }
 
