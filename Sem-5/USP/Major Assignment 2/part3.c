@@ -4,7 +4,7 @@
 #include <unistd.h>
 int main (int argc, char *argv[]){
 int i,n;
-pid_tchildpid=0; if (argc != 2){
+pid_t childpid=0; if (argc != 2){
 fprintf(stderr, "Usage: %s processes\n", argv[0]); return 1;
 }
 n = atoi(argv[1]); for(i=1;i<n;i++){
@@ -31,5 +31,6 @@ break;
 }
 printf("i:%d [process] PID : %ld from [parent] PID : %ld [child] PID :%ld \n",i,(long)getpid(),(long)getppid(),(long)childpid);
 wait(NULL);
+}
 }
 }

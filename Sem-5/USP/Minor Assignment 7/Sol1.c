@@ -29,7 +29,7 @@ int main(){
 	else {
 		close(fd1[1]);
 		read(fd1[0], input_str, 100);
-               fprintf(stderr, "Chldd");
+               fprintf(stderr, "Chld");
 		exit(0);
 	}
 }

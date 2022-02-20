@@ -13,5 +13,6 @@ for (i = 1; i < n; i++)
 if (childpid = fork())
 break;
 fprintf(stderr, "i:%d process ID:%ld parent ID:%ld child ID:%ld\n",i, (long)getpid(), (long)getppid(), (long)childpid);
+sleep(10);
 return 0;
 }

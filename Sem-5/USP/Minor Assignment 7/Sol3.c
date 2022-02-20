@@ -16,5 +16,6 @@ perror("Failed to create the pipe");
 return 3;
 }
 fork();
+sleep(10);
 return 0;
 }
