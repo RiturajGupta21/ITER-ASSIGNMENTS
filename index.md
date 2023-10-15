@@ -24,6 +24,6 @@
 ### Reach out to me 👓
 <a href="https://www.linkedin.com/in/rituraj-gupta/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
 <a href="https://github.com/riturajgupta21"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>
-<a href="https://twitter.com/guptarituraj01"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a>
+<a href="https://twitter.com/guptarituraj21"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a>
 <a href="https://www.instagram.com/_rituraj10_/"><img src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584853.png" width="32px" height="32px"></a> 
 <a href="https://www.facebook.com/rituraj2110"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>
